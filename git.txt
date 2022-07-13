@@ -1,0 +1,2 @@
+always make sure that everything you're working on is in a folder.
+so that you can be able to use git.
